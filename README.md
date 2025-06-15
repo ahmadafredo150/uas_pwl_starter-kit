@@ -139,9 +139,9 @@ Berikut adalah beberapa tangkapan layar untuk mendemonstrasikan fungsionalitas d
 
 ## Informasi Proyek
 
-* **Nama Mahasiswa:** Aldy Yusuf Kurniawan
-* **NIM:** 23091397206
-* **Kelas:** 2023 F
+* **Nama Mahasiswa:** Ahmad Afredo Farikh Asfiya
+* **NIM:** 23091397150
+* **Kelas:** 2023 E
 * **Mata Kuliah:** Pemrograman Web Lanjut (UAS)
 
 ---
